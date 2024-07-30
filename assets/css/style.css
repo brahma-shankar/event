@@ -747,7 +747,7 @@ short code
 }
 .main-menu ul li {
   display: inline-block;
-  margin-left: 50px;
+  margin-left: 20px;
 }
 .main-menu ul li:first-child {
   margin-left: 0;
@@ -1080,7 +1080,7 @@ short code
 @media screen and (max-width: 1600px) {
   .main-menu ul li {
     display: inline-block;
-    margin-left: 40px;
+    margin-left: 20px;
   }
 }
 @media screen and (max-width: 1350px) {
