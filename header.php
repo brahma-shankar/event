@@ -58,12 +58,6 @@
             <ul>
 
          <li><a href="speaker.php">Speaker</a></li>
-               <!--  <li><a href="gallery-v1.php">Gallery v.1</a></li>
-                <li><a href="gallery-v2.php">Gallery v.2</a></li>
-                <li><a href="faq-v1.php">FAQ v.1</a></li>
-                <li><a href="faq-v2.php">FAQ v.2</a></li>
-                <li><a href="contact-v1.php">Contact v.1</a></li>
-                <li><a href="contact-v2.php">Contact v.2</a></li> -->
             </ul>
         </div>
     </div>
@@ -72,13 +66,13 @@
         
     </ul>
 </div>
-                <!-- Menu Start -->
-                <div class="header-search">
-                    <div class="search-button">
-                        <i class="icofont-search-1"></i>
-                    </div>
-                    <!-- Search Popup Area Start Here -->
-                    <div class="search-popup-wrapper white-logo">
+<!-- Menu Start -->
+<div class="header-search">
+    <div class="search-button">
+        <i class="icofont-search-1"></i>
+    </div>
+    <!-- Search Popup Area Start Here -->
+    <div class="search-popup-wrapper white-logo">
     <div class="search-popup-close">
         <button><i class="icofont-close"></i></button>
     </div>
