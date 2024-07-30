@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>evenxo</title>
+    <title>Hridyaanand Celebration</title>
     <link rel="icon" href="assets/img/faveicon.png" type="image/gif" sizes="16x16">
     <link rel="stylesheet" href="../../cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="assets/css/plugin.css">
@@ -45,23 +45,22 @@
                         <li class="dropdown"><a href="about-us.php">About</a></li>
                         <li class="dropdown" ><a href="">Events</a>
                             <ul class="sub-menu">
-                                <li><a href="event.php">Corporate Events</a></li>
-                                <li><a href="event.php">Conferences</a></li>
-                                <li><a href="event.php">Exhibitions</a></li>
-                                <li><a href="event.php">Fashion Shows</a></li>
-                                <li><a href="event.php">College Events</a></li>
+                                <li><a href="corporate-event.php">Corporate Events</a></li>
+                                <li><a href="conferences.php">Conferences</a></li>
+                                <li><a href="exhibitions.php">Exhibitions</a></li>
+                                <li><a href="fashion-show.php">Fashion Shows</a></li>
+                                <li><a href="college-event.php">College Events</a></li>
                             </ul>
                         </li>
                         
                         <li class="dropdown" ><a href="">Wedding</a>
                             <ul class="sub-menu">
-                                <li><a href="event.php">Corporate Events</a></li>
-                                <li><a href="event.php">Pre Wedding-Events</a></li>
-                                <li><a href="event.php">Destination Wedding</a></li>
-                                <li><a href="event.php">Decoration</a></li>
-                                <li><a href="event.php">Photography & Videography</a></li>
-                                <li><a href="event.php">Anniversary</a></li>
-                                <li><a href="event.php">Flower Decoration</a></li>
+                                <li><a href="pre-wedding-event.php">Pre Wedding-Events</a></li>
+                                <li><a href="destination-wedding.php">Destination Wedding</a></li>
+                                <li><a href="decoration.php">Decoration</a></li>
+                                <li><a href="photography-videography.php">Photography & Videography</a></li>
+                                <li><a href="anniversary.php">Anniversary</a></li>
+                                <li><a href="flower-decoration.php">Flower Decoration</a></li>
                             </ul>
                         </li>
                         <li><a href="#">Our Services</a>
@@ -73,14 +72,13 @@
                                 </div>
                                 <div class="menu">
                                     <ul>
-                                        <li><a href="speaker.php">Road Show </a></li>
+                                        <li><a href="road-show.php">Road Show </a></li>
                                         <li><a href="speaker.php">Speaker</a></li>
-                                        <li><a href="speaker.php">Product Launch</a></li>
-                                        <li><a href="speaker.php">Dealer/Retailer meet</a></li>
-                                        <li><a href="speaker.php">Annual Day Events</a></li>
+                                        <li><a href="product-launch.php">Product Launch</a></li>
+                                        <li><a href="dealer-retailer-meet.php">Dealer/Retailer meet</a></li>
+                                        <li><a href="annual-day-events.php">Annual Day Events</a></li>
                                     </ul>
                                 </div>
-                                
                             </div>
                             <div class="single-menu">
                                 <div class="title">
@@ -88,11 +86,11 @@
                                 </div>
                                 <div class="menu">
                                     <ul>
-                                        <li><a href="speaker.php">Rentals</a></li>
-                                        <li><a href="speaker.php">Manpower</a></li>
-                                        <li><a href="speaker.php">Entertainment</a></li>
-                                        <li><a href="speaker.php">Stage & Fabrication</a></li>
-                                        <li><a href="speaker.php">Mall Activities</a></li>
+                                        <li><a href="rentals.php">Rentals</a></li>
+                                        <li><a href="manpower.php">Manpower</a></li>
+                                        <li><a href="entertainment.php">Entertainment</a></li>
+                                        <li><a href="stage-fabrication.php">Stage & Fabrication</a></li>
+                                        <li><a href="mall-activities.php">Mall Activities</a></li>
                                     </ul>
                                 </div>
 
@@ -103,11 +101,11 @@
                                 </div>
                                 <div class="menu">
                                     <ul>
-                                        <li><a href="speaker.php">ATL & BTL activities </a></li>
-                                        <li><a href="speaker.php">Brand Promotion</a></li>
-                                        <li><a href="speaker.php">Games & Activities</a></li>
-                                        <li><a href="speaker.php">Artist management</a></li>
-                                        <li><a href="speaker.php">Celebrity Management</a></li>
+                                        <li><a href="atl-btl-activities.php">ATL & BTL activities </a></li>
+                                        <li><a href="brand-promotion.php">Brand Promotion</a></li>
+                                        <li><a href="games-activities.php">Games & Activities</a></li>
+                                        <li><a href="artist-management.php">Artist management</a></li>
+                                        <li><a href="celebrity-management.php">Celebrity Management</a></li>
                                     </ul>
                                 </div>
                                 
@@ -118,12 +116,12 @@
                                 </div>
                                 <div class="menu">
                                     <ul>
-                                        <li><a href="speaker.php">Award Night</a></li>
-                                        <li><a href="speaker.php">Sound & Light</a></li>
-                                        <li><a href="speaker.php">Team Building Activities</a></li>
-                                        <li><a href="speaker.php">Family Day Events</a></li>
-                                        <li><a href="speaker.php">Theme Party</a></li>
-                                        <li><a href="speaker.php">Corporate Gifting</a></li>
+                                        <li><a href="award-night.php">Award Night</a></li>
+                                        <li><a href="sound-light.php">Sound & Light</a></li>
+                                        <li><a href="team-building-activities.php">Team Building Activities</a></li>
+                                        <li><a href="family-day-events.php">Family Day Events</a></li>
+                                        <li><a href="theme-party.php">Theme Party</a></li>
+                                        <li><a href="corporate-gifting.php">Corporate Gifting</a></li>
 
                                     </ul>
                                 </div>
@@ -131,17 +129,38 @@
                             </div>
                             </div>
                         </li>
-                        <li class="dropdown" ><a href="">Holiday Celebration</a>
-                            <ul class="sub-menu">
-                                <li><a href="event.php">Corporate Events</a></li>
-                               <li><a href="event.php"> Holi Celebration</a></li>
-                               <li><a href="event.php"> Christmas Celebration</a></li>
-                               <li><a href="event.php"> Independence Day / Republic Day celebration</a></li>
-                               <li><a href="event.php"> Diwali Celebration</a></li>
-                               <li><a href="event.php"> Navratri Celebration</a></li>
-                               <li><a href="event.php"> New Year Celebration</a></li>
+                        <li><a href="">Holiday Celebration</a>
+                            <div class="mega-menu general-mega-menu ">
+                            
+                             <div class="single-menu">
+                                <div class="title">
+                                    <h6>Others <i class="icofont-rounded-down"></i></h6>
+                                </div>
+                                <div class="menu"> 
+                                    <ul>
+                                        <li><a href="holi-celebration.php">Holi Celebration</a></li>
+                                       <li><a href="christmas-celebration.php"> Christmas Celebration</a></li>
+                                       
+                                       <li><a href="independence-republic-celebration.php"> Independence Day / Republic Day celebration</a></li>
 
-                            </ul>
+                                    </ul>
+                                </div>
+                            </div>
+
+                            <div class="single-menu">
+                                <div class="title">
+                                    <h6>Others <i class="icofont-rounded-down"></i></h6>
+                                </div>
+                                <div class="menu"> 
+                                    <ul>
+                                       <li><a href="diwali-celebration.php"> Diwali Celebration</a></li>
+                                       <li><a href="navratri-celebration.php"> Navratri Celebration</a></li>
+                                       <li><a href="new-year-celebration.php"> New Year Celebration</a></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
                         </li>
                         <li><a href="contact.php">Contact</a></li>
 
